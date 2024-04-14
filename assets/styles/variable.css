@@ -1,0 +1,6 @@
+:root {
+  --sidebar-width: 300px;
+  --sidebar-bg-color: pink;
+  --article-item-max-w: 900px;
+  --article-item-min-w: 100px;
+}
